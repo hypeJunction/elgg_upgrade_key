@@ -7,8 +7,8 @@
 	<category>upgrade</category>
 	<description>Protect upgrade.php script with a key</description>
 	<website>http://hypejunction.com/</website>
-	<copyright>See COPYRIGHT.txt</copyright>
 	<license>GNU General Public License version 2</license>
+	<copyright>(c) 2013, Ismayil Khayredinov</copyright>
 	<requires>
 		<type>elgg_release</type>
 		<version>1.8</version>
